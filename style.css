@@ -13,7 +13,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 71px;
+    padding-top: 66px;
     width: 1083px;
 }
 nav a:hover{
@@ -85,7 +85,7 @@ footer a{
     margin: auto;
     width: 568px;
     margin-bottom: 27px;
-    margin-top: 350px;
+    margin-top: 400px;
     border: 1px  solid #00BFA6;
 
 }
